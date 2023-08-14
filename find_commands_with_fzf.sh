@@ -1,6 +1,6 @@
 #!/bin/zsh
 #
-# FileName:     find_command
+# FileName:     find_command_with_fzf
 # Author:       8ucchiman
 # CreatedDate:  2023-08-13 14:18:29
 # LastModified: 2023-01-23 14:11:45 +0900
