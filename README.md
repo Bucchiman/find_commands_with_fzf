@@ -18,7 +18,7 @@ Install the following packages.
 - [fzf](https://github.com/junegunn/fzf)
 - [bat](https://github.com/sharkdp/bat)
 
-## How to use
+## Install
 Just type the following commands.
 ```
     $ git clone https://github.com/Bucchiman/find_commands_with_fzf.git
@@ -26,3 +26,8 @@ Just type the following commands.
     $ source ./find_commands_with_fzf.sh
 ```
 
+## Usage
+You can use `ctrl+s+o` for shortcut.
+You will find previous commands which you store in a paricular directory.
+
+![sample](https://github.com/Bucchiman/find_commands_with_fzf/assets/52972710/866e67e6-05fb-4b2a-be3a-010f86aaa60e)
