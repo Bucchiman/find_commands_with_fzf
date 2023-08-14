@@ -19,6 +19,10 @@ Install the following packages.
 - [bat](https://github.com/sharkdp/bat)
 
 ## How to use
+Just type the following commands.
 ```
-    $ 
+    $ git clone https://github.com/Bucchiman/find_commands_with_fzf.git
+    $ cd find_commands_with_fzf
+    $ source ./find_commands_with_fzf.sh
 ```
+
